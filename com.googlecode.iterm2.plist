@@ -944,7 +944,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Monaco 14</string>
+			<string>Monaco 12</string>
 			<key>Open Password Manager Automatically</key>
 			<false/>
 			<key>Open Toolbelt</key>
@@ -2398,6 +2398,8 @@
 	</dict>
 	<key>SeparateStatusBarsPerPane</key>
 	<false/>
+	<key>ShowFullScreenTabBar</key>
+	<false/>
 	<key>ShowPaneTitles</key>
 	<false/>
 	<key>SoundForEsc</key>
@@ -2415,6 +2417,8 @@
 	<key>ToolbeltTools</key>
 	<array>
 		<string>Notes</string>
+		<string>Command History</string>
+		<string>Paste History</string>
 	</array>
 	<key>UseBorder</key>
 	<false/>
